@@ -1,0 +1,24 @@
+{
+  "name": "blockchain-history",
+  "version": "1.0.0",
+  "description": "A timeline that covers different events that have occurred in the crypto world to date.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CMU-Blockchain-Group/blockchain-history.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CMU-Blockchain-Group/blockchain-history/issues"
+  },
+  "homepage": "https://github.com/CMU-Blockchain-Group/blockchain-history#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "react": "^16.13.1"
+  }
+}
